@@ -1,4 +1,4 @@
-This repo contains an implementation of the Ritchken-Trevor algorithm to price American put options.
+This repo. contains the implementation of the Ritchken-Trevor algorithm to price American put options.
 # Running the Code
 [NumPy](http://www.numpy.org/) package is required. Then, just type `python hw4.py` to execute the code.
 # Inputs
